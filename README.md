@@ -1,7 +1,7 @@
 This is my first GitHub Repository
 - 👋 Hi, I’m @sidarth
 - 👀 I’m interested in coding and development
-- 🌱 I’m currently learning Web dev and JS
+- 🌱 I’m currently learning Web dev and Java Script
 
 
 <!---
